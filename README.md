@@ -1,6 +1,6 @@
 # redwood
 
-##stats
+## stats
 ![GitHub issues by-label](https://img.shields.io/github/issues-raw/gamesphere/redwood/bug.svg?label=bugs)
 ![GitHub issues by-label](https://img.shields.io/github/issues-raw/gamesphere/redwood/bug.svg?label=suggestions)
 
